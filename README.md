@@ -1,4 +1,28 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi, I'm <strong>Bishal Dey</strong></h2>
+
+💻 **Python Developer** from India 🇮🇳  
+🔍 Focused on building **robust solutions**, driving **innovation**, and delivering **high-quality code**
+
+---
+
+### 🚀 What I'm Working On
+- 🔭 Python projects, API integrations, and automation tools  
+- 🌱 Currently learning advanced Python, Django, and machine learning  
+- 👯 Looking to collaborate on **open-source Python projects**
+
+---
+
+### 💬 Let's Connect
+- 📫 Reach me at: **bishal.dey@example.com** *(replace with your real email or LinkedIn!)*  
+- 💬 Ask me about: Python, APIs, web scraping, automation, software development
+
+---
+
+### ⚡ Fun Fact
+I’m passionate about building efficient systems and exploring new technologies 🚀
+
+---
+
 
 ###
 
@@ -9,7 +33,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
