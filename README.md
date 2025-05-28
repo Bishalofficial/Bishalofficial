@@ -13,7 +13,7 @@
 ---
 
 ### 💬 Let's Connect
-- 📫 Reach me at: **bishal.dey@example.com** *(replace with your real email or LinkedIn!)*  
+- 📫 Reach me at: **bishaldey312@gmail.com** *(replace with your real email or LinkedIn!)*  
 - 💬 Ask me about: Python, APIs, web scraping, automation, software development
 
 ---
